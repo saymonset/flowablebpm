@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -X POST -d @startprocess.json http://localhost:8080/flowable/process
