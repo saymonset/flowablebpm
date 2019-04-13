@@ -34,17 +34,19 @@ Where
 
 
 
-5) run with gradle bootrun
+5-)  run with:
+
+       gradle bootrun
 
 
-call a new process
+6 - ) call a new process
+   - open a console and run in cmd,  and call the name file 
 
- 1-) open a console and run in cmd
-
-    startprocess.cmd
+           startprocess.cmd
 
  2-) Execute all task
-    
-    completeTask.cmd   
+     open a console and run in cmd,  and call the name file 
+
+             completeTask.cmd   
 
 
