@@ -1,5 +1,5 @@
  1) install gradle >= 4.4.1
- 2) install mysql and create bd floawble
+ 2) install mysql and create bd flowable
  
    The parameters  in application.properties, flowable.cfg.xml  are
 
